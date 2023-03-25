@@ -1,1 +1,1 @@
-# -Bicycle-project-crowd-evaluation
+# Bicycle project crowd evaluation
