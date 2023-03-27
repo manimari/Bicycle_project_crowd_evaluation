@@ -10,9 +10,16 @@ The dataset includes two files: anonymized_project.json, which contains the anno
 
 The tasks for this project include gathering insights about the annotators, identifying trends in the data, analyzing the balance of the reference set, and identifying good and bad annotators.
 
-## Running the code 
+## Running the code
+To analyze and visualize the bicycle annotation dataset, you will need to download or clone this repository. Once you have done that, follow these instructions:
 
-To run the code, clone the repository and install any dependencies required. Then, navigate to the src folder and run python main.py. The output will be displayed in the console.
+1. Open the Jupyter Notebook named 'Bicycle_Annotators.ipynb' in Jupyter Notebook, JupyterLab or Visual Studio Code.
+
+2. Run each cell in sequence to load the dataset, clean and preprocess the data, and generate visualizations and statistics.
+
+Note that you will need to have the following Python packages installed: pandas, numpy, and matplotlib.
+
+If you encounter any issues or have questions, please don't hesitate to contact me.
 
 ## Dependencies
 - Python 3.7+
